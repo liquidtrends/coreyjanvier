@@ -48,8 +48,10 @@ export default function Banner() {
               </button>
             </div>
 
-            <button onClick={openModal} className={`${styles.but}`}>
-              CONTACT ME
+            <button className={`${styles.but}`}>
+              <a target="_blank" href="mailto:corey@liquidtrends.com">
+                EMAIL ME
+              </a>
             </button>
           </div>
         </section>
