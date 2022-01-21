@@ -49,7 +49,7 @@ export default function Banner() {
             </div>
 
             <button className={`${styles.but}`}>
-              <a target="_blank" href="mailto:corey@liquidtrends.com">
+              <a target="_blank" href="mailto:corey@liquidtrends.co">
                 EMAIL ME
               </a>
             </button>

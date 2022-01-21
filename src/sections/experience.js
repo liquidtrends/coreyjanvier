@@ -11,14 +11,23 @@ export default function Experience() {
       <div className="cardContainer">
         <div className="card">
           <div className="cardContent">
+          <div className="cardCont">
+            <h5>
+              <span>
+                <FontAwesomeIcon icon={faCalendarAlt} /> 2021 - Present
+              </span>
+            </h5>
+            <h3>Founder and CEO</h3>
+            <h4>Cedar Brush Site Services & Janitorial</h4>
+          </div>
             <div className="cardCont">
               <h5>
                 <span>
                   <FontAwesomeIcon icon={faCalendarAlt} /> 2016 - Present
                 </span>
               </h5>
-              <h3>Steel River Group, Senior Manager Relationship</h3>
-              <h4>Summit Development Group/2Eighteen Holding</h4>
+              <h3>Steel River Group, Senior Manager, Relationships</h3>
+              <h4>2Eighteen Holding Corp (Consulting)</h4>
             </div>
             <div className="cardCont">
               <h5>
