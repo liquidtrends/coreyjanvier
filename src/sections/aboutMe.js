@@ -18,7 +18,7 @@ export default function AboutMe() {
         </header>
 
         <p>
-        I am a member of Chipewyan Prairie Dene First Nation located in Northeastern Alberta, and currently located in Vancouver, BC. A results-oriented and strategic leader with 18 years of extensive experience in accomplishing
+        I am a member of Chipewyan Prairie Dene First Nation located in Northeastern Alberta, and currently residing in Vancouver, BC. A results-oriented and strategic leader with 18 years of extensive experience in accomplishing
 remarkable outcomes in economic and community development. Highly skilled in planning,
 organizing and implementing economic development functions from conception to completion,
 including business retention, business attraction, and incentive programs. Adept at
